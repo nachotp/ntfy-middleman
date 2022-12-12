@@ -1,4 +1,3 @@
-from re import A
 import requests
 from requests.auth import HTTPBasicAuth
 
